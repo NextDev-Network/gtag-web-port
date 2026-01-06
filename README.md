@@ -1,6 +1,6 @@
 # The one of the first (or the first) web ports for Gorilla tag
 
-This web-port made by Road.js and Veteraning (Aww cute little yaoi senpai's <3) of gorilla tag to play in school or in other places only in html. This makes it easier to enjoy games 
+This web-port made by Road.js and Veteraning of gorilla tag to play in school or in other places only in html. This makes it easier to enjoy games. 
 
 ### Why did you make this?
 
